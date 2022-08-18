@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
+<a href="[https://velog.io/@joonghyun]" target="_blank"><img src="https://img.shields.io/badge/[velog]-[#20C997]?style=flat-square&logo=[Velog]&logoColor=white"/></a>
+
+
 ![joong2043's github stats](https://github-readme-stats.vercel.app/api?username=joong2043&show_icons=true)
