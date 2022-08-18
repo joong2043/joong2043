@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 -->
 
-![joong2043's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![joong2043's github stats](https://github-readme-stats.vercel.app/api?username=joong2043&show_icons=true)
