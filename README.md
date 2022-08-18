@@ -11,4 +11,6 @@
 
 
 ![joong2043's github stats](https://github-readme-stats.vercel.app/api?username=joong2043&show_icons=true)
+
+[![joong2043's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joong2043&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/joong2043)
 </div>
