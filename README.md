@@ -1,6 +1,6 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Joonghyun&fontSize=90)
-</div>
+
 <div align="center">
 
 <a href="https://velog.io/@joonghyun" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white" width = 80px height = 30px/></a>
