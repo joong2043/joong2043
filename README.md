@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Joonghyun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=240&section=header&text=Joonghyun&fontSize=90)
 
 <div align="center">
 
