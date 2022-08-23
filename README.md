@@ -1,6 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Joonghyun&fontSize=90)
-
+<div align="center">
+  성장하고 싶은 개발자 박중현입니다😀
+</div>
 
 
 <div align="center">
